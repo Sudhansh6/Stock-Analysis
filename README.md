@@ -50,6 +50,11 @@ movement of the underlying
 > The Delta measures how an options value changes with respect to the change in the underlying. *i.e;* Delta is the rate of change of *Premium* with respect to *Underlying*.  
 The delta is a number which varies –
 1. Between 0 and 1 for a call option, some traders prefer to use the 0 to 100 scale. So
-the delta value of 0.55 on 0 to 1 scale is equivalent to 55 on the 0 to 100 scale.
+the delta value of 0.55 on 0 to 1 scale is equivalent to 55 on the 0 to 100 scale.  
 2. Between -1 and 0 (-100 to 0) for a put option. So the delta value of -0.4 on the -1 to 0
-scale is equivalent to -40 on the -100 to 0 scale
+scale is equivalent to -40 on the -100 to 0 scale.  
+
+**Note-** 
+- The delta value cannot be greater than 1. If that is the case, the change in value of premium will be more than that of underlying stock which is codswallop. Option is derived from its underlying and it can never move faster than the underlying itself.
+- The delta value cannot be less than 0 as there is a chance that premium becomes negative because of negative delta.
+
