@@ -86,3 +86,10 @@ The price is 2210 and the expectation is a 30 point change in the underlying (wh
 |ATM| 2210| 0.5| Rs.12/-| 30*0.5 = 15| 12+15 = 27| 125%|
 |Slightly ITM| 2200| 0.7| Rs.22/-| 30*0.7 = 21| 22+21 = 43| 95.45%|
 |Deep ITM| 2150| 1| Rs.75/-| 30*1 = 30| 75 + 30 =105| 40%|
+
+- Deltas of the call and puts can be added as long as it belongs to the same underlying.
+- Positions such as this – which have a combined delta of 0 are also called ‘Delta
+Neutral’ positions. Delta Neutral positions do not get impacted by any directional change. They behave as if they are insulated to the market movements.However, Delta neutral positions react to other variables like Volatility and Time. 
+- This technique of adding up the deltas is very helpful when you have multiple option positions running simultaneously and you want to identify the overall directional impact on the positions.
+- Futures contract is only affected by the direction of the market, however the options contracts are affected by many other variables besides the direction of the markets.
+- Delta also *represents* the probability of the moneyness to change to favourable conditions. As in, if the delta of an OTM option is 0.3, then the probability that this Option turns into an ITM before expiry is 30%.
