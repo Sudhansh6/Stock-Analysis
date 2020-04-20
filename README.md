@@ -58,3 +58,31 @@ scale is equivalent to -40 on the -100 to 0 scale.
 - The delta value cannot be greater than 1. If that is the case, the change in value of premium will be more than that of underlying stock which is codswallop. Option is derived from its underlying and it can never move faster than the underlying itself.
 - The delta value cannot be less than 0 as there is a chance that premium becomes negative because of negative delta.
 
+The delta changes with changes in the value of spot. Hence delta is a variable and not really a fixed entity. Therefore if an option has a delta of 0.4, the value is likely to change with the change in the value of the underlying. It's relation can represented through the following graph :-   
+![Delta vs Moneyness](https://zerodha.com/varsity/wp-content/uploads/2015/06/Image-1_Delta-vs-Spot1.png)
+
+Note the following points about the above graph (written with respect to call option but similar observations can be made for put option) -
+- The delta value increases as spot value increases
+- Delta doesn't change much when monyness is deep OTM or OTM ( similarily with deep ITM and ITM).
+- Delta hits 0.5 at ATM.
+
+We can conclude the following (written for call options)-
+- Deep OTM options tends to put on an impressive percentage however for this to happen the spot has to move by a large value.
+> The change in premium is proportional to change in underlying (by a factor of delta). The premiums are low for OTM options hence a meaningful change in underlying can give massive yields of premium in terms of percentages.
+- The slightly OTM option which usually has a delta value of say 0.2 or 0.3 is more sensitive to changes in the underlying. For any meaningful change in the underlying the percentage change in the slightly OTM options is very impressive.
+> The delta is higher than deep OTM options hence less risk and more returns. The risk is lower because if the spot price decreases the delta value remains almost same (curve is flatter and change is low) and the returns are more because if spot price increases the delta value increases rapidly (acceleration stage). In a vague manner, we are talking about f"(x) and not f'(x). *We can say that the premium vs spot price curve looks like an exponential curve here.* Note that the premiums are higher in case of OTM options when compared to deep OTM ones.
+- ATM options are more sensitive to changes in the spot when compared to OTM options. Now because the ATM’s delta is high the underlying need not really move by a large value. Even if the underlying moves by a small value the option premium changes. However buying ATM options are more expensive when compared to OTM options.
+> The percentage yields are lower because the premium also increased rapidly when compared to OTM options.
+- In terms of the absolute change in the number of points, the deep ITM option scores over the slightly ITM option. However in terms of percentage change it is the other way round. Clearly ITM options are more sensitive to the changes in the underlying but certainly most expensive.
+> The risk is lowest in ITM options. When delta is 1 (deep ITM), buying a deep ITM option is as good as buying the underlying itself. This is because whatever is the change in the underlying, the deep ITM option will experience the same change. Deep ITM option moves in line with the underlying, this means you can substitute a deep ITM option to a futures contract (lesser margin though).
+
+The above can be summarised as follows - 
+The price is 2210 and the expectation is a 30 point change in the underlying (which means we are expecting spot price to hit
+2240). We will also assume there is plenty of time to expiry; hence time is not really a concern.  
+| Moneyness | Strike | Delta | Old Premium | Change in Premium | New Premium | % Change |  
+| --- | --- | --- | --- | --- | --- | --- |
+| Deep OTM  |  2400  | 0.05  |   Rs.3/-    |   30* 0.05 = 1.5  | 3+1.5 = 4.5 |   50%    |
+|Slightly OTM| 2275| 0.3| Rs.7/-| 30*0.3 = 9| 7 +9 = 16| 129%|
+|ATM| 2210| 0.5| Rs.12/-| 30*0.5 = 15| 12+15 = 27| 125%|
+|Slightly ITM| 2200| 0.7| Rs.22/-| 30*0.7 = 21| 22+21 = 43| 95.45%|
+|Deep ITM| 2150| 1| Rs.75/-| 30*1 = 30| 75 + 30 =105| 40%|
