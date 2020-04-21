@@ -93,3 +93,8 @@ Neutral’ positions. Delta Neutral positions do not get impacted by any directi
 - This technique of adding up the deltas is very helpful when you have multiple option positions running simultaneously and you want to identify the overall directional impact on the positions.
 - Futures contract is only affected by the direction of the market, however the options contracts are affected by many other variables besides the direction of the markets.
 - Delta also *represents* the probability of the moneyness to change to favourable conditions. As in, if the delta of an OTM option is 0.3, then the probability that this Option turns into an ITM before expiry is 30%.
+
+### Gamma of an Option :
+> If *delta* is considered as velocity then *gamma* is acceleration. *Premium* can be considered as distance. Gamma is also referred to as **the curvature of option**. The gamma is usually expressed in deltas gained or lost per one point change in the underlying – with the delta increasing by the amount of the gamma when the underlying rises and falling by the amount of the gamma when the underlying falls.
+- The change in Gamma due to changes in underlying is captured by 3rd derivative of underlying called “Speed” or “Gamma of Gamma” or “DgammaDspot”. For all practical purposes, it is not necessary to get into the discussion of Speed.
+
