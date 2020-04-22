@@ -36,6 +36,17 @@ strike is called ‘Out of the money’. The strike which is closest to the Spot
 called ‘At the money’.  In general, ITM
 options are always more expensive compared to OTM options.  
 
+## Volatility :
+>It is a statistical measure of the dispersion of returns for a given security or market index. Volatility can either be measured by using the standard deviation or variance between returns from that same security or market index. Commonly higher the standard deviation, higher is the risk.
+
+> ### Random Walk :   
+> ![Random Walk Simulation](https://zerodha.com/varsity/wp-content/uploads/2015/08/M5-C17-GaltonBoard2.png)
+    
+> ![Standard Deviation in Gaussian](https://zerodha.com/varsity/wp-content/uploads/2015/08/M5-C17-ND-graph1.png)
+
+The daily returns of a stock or an index cannot be predicted.However if I collect the daily returns of the stock for a certain period and see the distribution of these returns – I get to see a normal(Gaussian) distribution.
+
+
 ## Option Greeks :
 > The premium of the option depends on certain forces called as the ‘OptionGreeks’. Crudely put, some Option Greeks tends to increase the premium, whilesome try to reduce the premium. Though all these factors work as independent agents, yet they are all intervened with one another. A formula called the ‘Black & Scholes Option Pricing Formula’ employs these forces and translates the forces into a number, which is the premium of the option.  
 
@@ -97,4 +108,15 @@ Neutral’ positions. Delta Neutral positions do not get impacted by any directi
 ### Gamma of an Option :
 > If *delta* is considered as velocity then *gamma* is acceleration. *Premium* can be considered as distance. Gamma is also referred to as **the curvature of option**. The gamma is usually expressed in deltas gained or lost per one point change in the underlying – with the delta increasing by the amount of the gamma when the underlying rises and falling by the amount of the gamma when the underlying falls.
 - The change in Gamma due to changes in underlying is captured by 3rd derivative of underlying called “Speed” or “Gamma of Gamma” or “DgammaDspot”. For all practical purposes, it is not necessary to get into the discussion of Speed.
+
+### Theta of an Option :
+`Premium = Time value + Intrinsic Value`
+> All other things being equal, an option is a depreciating asset. The option’s premium erodes daily and this is attributable to the passage of time. approaches. The Theta or time decay factor is the rate at which an option loses value as time passes. Theta is expressed in points lost per day when all other conditions remain the same.  
+
+Theta is a friendly Greek to the option seller. Remember the objective of the option seller is to retain the premium. Given that options lose value on a daily basis, the option seller can benefit by retaining the premium to the extent it loses value owing to time.  
+![Premium vs Time](https://zerodha.com/varsity/wp-content/uploads/2015/07/Image-5_Time-Decay.png)
+
+### Vega of an Option :
+>The Vega of an option measures the rate of change of option’s value (premium) with every percentage change in volatility. With increase in volatility, the Vega of an option increases (irrespective of calls and puts), and with increase in Vega, the option premium tends to increase. The effect of Vega is particularly high for ‘Out of the money’ options.
+
 
