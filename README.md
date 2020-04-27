@@ -2,12 +2,11 @@
 ---
 
 # Contents
-## 1. [Need to invest and investments](#need-to-invest-and-investments)
-## 2. [Trading Stocks](trading-stocks)
-## 3. [Options Trading](options-trading)
-+ Moneyness of an Option
-+ Volatility
-+ Option Greeks
+## 1. [Need to invest and investments](need-to-invest-and-investments)
+## 2. [Stock Market introduction](stock-market-introduction)
+## 3. [Stages of a Business](stages-of-a-business)
+## 4. [IPO Markets](ipo-markets)
+## 5. [Options Trading](options-trading)
 
 ---
 
@@ -38,7 +37,7 @@ Investments optimally should have a strong mix of all asset classes. It is smart
 + Real Estate investment requires a large outlay of cash and cannot be done with smaller amounts. *Liquidity* is another issue with real estate investment – you cannot buy or sell whenever you want. You always have to wait for the right time and the right buyer or seller to transact with you.
 + Gold and silver are known to be a relatively safer but the historical return on such investment has not been very encouraging.
 
-# Trading Stocks
+# Stock Market Introduction
 
 ## Stock markets and Regulators
 The stock market is where everyone who wants to transact in shares goes to. The main purpose of the stock market is to help you facilitate your transactions. You can access the stock market via a registered intermediary called the stockbroker.  
@@ -64,8 +63,7 @@ When you buy a share (a share represents part ownership in a company) the only w
 
 **NSCCL – National Security Clearing Corporation Ltd and Indian Clearing Corporation** ensure guaranteed settlement of your trades/transactions. The clearing corporation also ensures there are no defaults by either party. For instance the seller after selling the shares should not be in a position to back out thereby defaulting in his transaction.
 
-## IPO Markets
-***Birth of a Company***
+# Stages of a Business
 + Investors who place their trust in the entrepreneur and invest in pre-revenue stage are known as **Angel investors**. This initial investment used to start the business is called as 'The Seed Fund'.
 + The money is placed in the company's bank account and is referred as the inital **share capital** of the company. The investors and entrepreneurs are issued with share certificates which entitles them as the owners of the company.
 + **Face value** is the value of each share and it depends on the **valuation** of company and no. of shares.
@@ -81,6 +79,39 @@ When you buy a share (a share represents part ownership in a company) the only w
 + Raising money through debt has interest rate burden, also called the finance charges which would eat away the profits the company generates.
 + VC funding is usually small and runs into a few crores.**Private Equity(PE)** investors invest large amounts of money with the objective of not only providing the capital for constructive use but also place their own people on the board of the investee company to ensure the company steers in the required direction.
 + When a company files for an IPO, they have to offer their shares to the general public. The general public will subscribe to the shares (if they want to) by paying a certain price. If the company is offering the shares for the first time to the public, it is called the “Initial Public Offer’.
+
+# IPO Markets
+
+## Why does a company go public?
+- Fund required for CAPEX is raised.
+- All share holders share the same amount of risk. Through public offering, the risk is spread among a large number of people.
+- The existing shareholders can sell their shares to the public and exit the company.
+- Shares can be allotted to employees as an incentive.
+- Trading publicly increases the visibility of the company, thereby impacting in positive growth.
+- There is no interest repayment like in debt and company can raise large funds.
+
+## Merchant Bankers and the process of becoming public
+> Merchant bankers are also called Book Running Lead Managers (BRLM)/Lead Manager (LM). The job of a merchant banker is to assist the company with various aspects of the IPO process including:
++ Conduct due diligence on the company filing for an IPO, ensure their legal compliance and also issue a due diligence certificate
++ Should work closely with the company and prepare their listing documents including Draft Red Herring Prospectus (DRHP) - This is an pre-eliminary registration document or prospectus. 
+A DRHP should contain the following details:  
+  
+    - The estimated size of the IPO
+    - The estimated number of shares being offered to the public
+    - Why the company wants to go public and how does the company plan to utilize the funds along with the timeline projection of fund utilization
+    - Business description including the revenue model, expenditure details
+    - Complete financial statements
+    - Management Discussion and Analysis – how the company perceives future business operations to emerge
+    - Risks involved in the business
+    - Management details and their background
++ Underwrite shares – By underwriting shares, merchant bankers essentially agree to buy all or part of the IPO shares and resell the same to the public
++ Help the company arrive at the price band for the IPO. A price band is the lower and upper limit of the share price within which the company will go public. The price band is usually higher than the actual than the actual value of shares.
++ Help the company with promotional/marketing activity for the company’s IPO
++ Appointment of other intermediaries namely, registrars, bankers, advertising agencies, etc. The Lead manager also makes various marketing strategies for the issue
+
+During the bidding process (also called the date of issue) investors can bid for shares at a particular price within the specified price band.  This whole system around the date of the issue where one bids for shares, is referred to as the Primary Market. The moment the stock gets listed and debuts on the stock exchange, the stock starts to trade publicly. This is called the secondary market.  
+
+Once the stock transitions from primary markets to secondary markets, the stock gets traded daily on the stock exchange. People start buying and selling stocks regularly.
 
 # Options Trading
 
