@@ -6,7 +6,8 @@
 ## 2. [Stock Market introduction](stock-market-introduction)
 ## 3. [Stages of a Business](stages-of-a-business)
 ## 4. [IPO Markets](ipo-markets)
-## 5. [Options Trading](options-trading)
+## 5. [Stock Markets](stock-markets)
+## 6. [Options Trading](options-trading)
 
 ---
 
@@ -112,6 +113,48 @@ A DRHP should contain the following details:
 During the bidding process (also called the date of issue) investors can bid for shares at a particular price within the specified price band.  This whole system around the date of the issue where one bids for shares, is referred to as the Primary Market. The moment the stock gets listed and debuts on the stock exchange, the stock starts to trade publicly. This is called the secondary market.  
 
 Once the stock transitions from primary markets to secondary markets, the stock gets traded daily on the stock exchange. People start buying and selling stocks regularly.
+
+# Stock Markets
+The stock market is a place where market participants can access any publicly listed company and trade from their point of view, as long as there are other participants who have an opposing point of view.  
+
+The basic principal of a stock price goes like this - If the company is expected to do well (valuation of company will increase) then the trader will buy those stocks and he/she will sell them in the other case.*If the company is expected to do well then traders will buy stocks for higher prices too and the stock prices go up*
+
+You have to visit a broker to trade. Suppose you are buying stocks, you convey the same to the broker. Before your broker transmits this order to the exchange he needs to ensure you have sufficient money to buy these shares. If yes, then this order ticket hits the stock exchange. Once the order hits the market the stock exchange (through their order matching algorithm) tries to find a seller who is willing to sell you.Once the trade is executed, the shares will be electronically credited to your DEMAT account. Likewise the shares will be electronically debited from the sellers DEMAT account.
+
+- By virtue of owning the shares you are entitled to few corporate benefits like dividends, stock split, bonus, rights issue, voting rights etc. We will explore all these shareholder privileges at a later stage.
+- **Holding period** is defined as the period during which you intend to hold the stock. 
+- Returns are calculated as Absolute returns and Compound Annual Growth Returns(CAGR).
+
+## Stock Market Index
+An index acts as a barometer of the whole economy.An index going up (down) indicates that the market participants are optimistic (pessimistic).  
+There are two main market indices in India. The S&P BSE Sensex representing the Bombay stock exchange and CNX Nifty representing the National Stock exchange.
+- The index reflects the general market trend for a period of time. The index is a broad representation of the country’s state of the economy. 
+- A trader can compare his/her returns to the returns of the indices and conclude if he/she has underperformed/overperformed the index.
+- One can trade on the index in the from of derivatives - futures and options.
+
+ Index is a composition of many stocks from different sectors which collectively represents the state of the economy. To include a stock in the index it should qualify certain criteria. Each *index stock* is given a weightage which represents the contribution to movement of index. Indian stock exchange follows a method called free-float market capitalization. The weights are assigned based on the free-float market capitalization of the company, the larger the market capitalization, the higher is the weight.  
+Free float market capitalization is the product of the total number of shares outstanding in the market, and the price of the stock.  
+There are sector-specific indices which convey the sentiment of specific sectors.
+
+## Commonly used Jargons
++ **Bull Market (Bullish)** – If you believe that the stock prices are likely to go up then you are said to be bullish on the stock price. From a broader perspective, if the stock market index is going up during a particular time period, then it is referred to as the bull market.
++ **Bear Market (Bearish)** – If you believe that the stock prices are likely to go down then you are said to be bearish on the stock price. 
++ **Trend** – Refers to the general market direction, and its associated strength.
++ **Face value of a stock** – Face value (FV) or par value of a stock indicates the fixed denomination of a share. The face value is important with regard to a corporate action.
++ **52 week high/low** – 52 week high is the highest point at which a stock has traded during the last 52 weeks (which also marks a year) and similarly for 52 week low.
++ **Upper Circuit/Lower Circuit** – The exchange sets up a price band at which the stock can be traded in the market on a given trading day. The highest price the stock can reach on the day is the upper circuit limit and the lowest price is the lower circuit limit. The limit for a stock is set to 2%, 5%, 10% or 20% based on the exchange’s selection criteria. The exchange places these restrictions to control excessive volatility when a stock reacts to certain news related to the company.
++ **Long Position** - If you are long on a stock or an index, you are said to be bullish.
++ **Short Position** - When you short, you have a bearish view on the stock. You profit if the stock price goes down. When you short you essentially borrow from another market participant, and you will have to deliver these shares back. You sell and then buy. 
++ **Square off** – Term used to indicate that you intend to close an existing position. If you are long on a stock squaring off the position means to sell the stock. Please remember, when you are selling the stock to close an existing long position you are not shorting the stock! When you are short on the stock, squaring off a position means to buy the stock back. Remember when you buy it back, you are just closing an existing position and you are not going long!
++ **OHLC** – OHLC stands for open, high, low and close.
++ **Volume** - Volumes represent the total transactions (both buy and sell put together) for a particular stock on a particular day.
++ **Market Segment** – A market segment is a division within which a certain type of financial instrument is traded.The exchange operates in three main segments.
+    * *Capital Market* – Offers a wide range of tradable securities such as equity, preference shares, warrants, and exchange-traded funds. Capital Market segment has sub-segments under which instruments are further classified. For example, common shares of companies are traded under the equity segment abbreviated as EQ. So if you were to buy or sell shares of a company you are essentially operating in the capital market segment
+    * *Futures and Options* – Futures and Option, generally referred to as the equity derivative segment is where one would trade leveraged products. 
+    * *Wholesale Debt Market* – The wholesale debt market deals with fixed income securities. Debt instruments include government securities, treasury bills, bonds issued by a public sector undertaking, corporate bonds, corporate debentures, etc.
+
+## Trading Terminal
+
 
 # Options Trading
 
