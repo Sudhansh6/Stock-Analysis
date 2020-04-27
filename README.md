@@ -40,6 +40,48 @@ Investments optimally should have a strong mix of all asset classes. It is smart
 
 # Trading Stocks
 
+## Stock markets and Regulators
+The stock market is where everyone who wants to transact in shares goes to. The main purpose of the stock market is to help you facilitate your transactions. You can access the stock market via a registered intermediary called the stockbroker.  
+
+There are two main stock exchanges in India that make up the stock markets. They are the Bombay Stock Exchange (BSE) and the National Stock Exchange (NSE). Besides these two exchanges, there are a bunch of other regional stock exchanges which don’t play any meaningful role anymore.  
+
+When money is involved, human emotions in the form of greed and fear run high. One can easily fall prey to these emotions and get involved in unfair practices. Given this, the stock markets need someone who can set the rules of the game (commonly referred to as regulation and compliance) and ensure that people adhere to these regulations and compliance thereby making the markets a level playing field for everyone.
+
+In India the stock market regulator is called The Securities and Exchange Board of India often referred to as SEBI. The objective of SEBI is to promote the development of stock exchanges, protect the interest of retail investors, regulate the activities of market participants and financial intermediaries.
+
+Points to note -
++ When you buy shares these shares sit in your Depositary account usually referred to as the DEMAT account.
++ When companies want to raise a loan they can issue debenture against which they promise to pay an interest. These debentures can be subscribed by public. Debentures give the company a way to get funds without diluting its equity. Interest to be paid on debentures is a charge against profit for the company. They also tend to be cheaper. Debenture holders bear very little risk since the loan is secured and the interest is payable even in the case of a loss to the company.
++ If a company plans to raise money by floating an IPO, then merchant bankers are the ones who help companies with the IPO process.
+
+## Financial Intermediaries
+
+**Stock Broker** is the gateway to stock exchanges. One needs to open a ‘Trading Account’ with a broker.
+
+When you buy a share (a share represents part ownership in a company) the only way to claim your ownership is by producing your share certificate. A share certificate is nothing but a piece of document entitling you as the owner of the shares in a company. The storage place for the digital share certificate is the ‘DEMAT Account’. A **Depository** offers the service of the Demat account.
+
+**Banks** help in facilitating the fund transfer from your bank account to your trading account.
+
+**NSCCL – National Security Clearing Corporation Ltd and Indian Clearing Corporation** ensure guaranteed settlement of your trades/transactions. The clearing corporation also ensures there are no defaults by either party. For instance the seller after selling the shares should not be in a position to back out thereby defaulting in his transaction.
+
+## IPO Markets
+***Birth of a Company***
++ Investors who place their trust in the entrepreneur and invest in pre-revenue stage are known as **Angel investors**. This initial investment used to start the business is called as 'The Seed Fund'.
++ The money is placed in the company's bank account and is referred as the inital **share capital** of the company. The investors and entrepreneurs are issued with share certificates which entitles them as the owners of the company.
++ **Face value** is the value of each share and it depends on the **valuation** of company and no. of shares.
++ Face value is the value of share on which company calculates & pay dividend & other benefits to the shareholders. **Issue price** is the price at which shares has been issued in secondary market.
++ **Authorised shares** refer to the maximum number of shares that a corporation is legally permitted to issue.
++ The alloted portion of shares is called as **issued shares**. The shares which are *authorised* but *not alloted* remain with the company.
++ The investor who invests in an early stage of business is called '**Venture Capitalist (VC)**' and the money that the business gets at this stage is called **Series A funding**.
++ Suppose the valuation of the company is 5cr. If a VC agrees to invest 7cr for 14% stake at the company, then the VC estimates the company's valuation to be 50cr.
++  Whenever a company plans such expenditure to improve the overall business, the expenditure is called **'Capital Expenditure’** or simply ‘CAPEX’. It can fund the CAPEX requirements through,
+    + Profits, called as funding through **internal accruals**
+    + Another round of VC funding by allotting shares from the authorized capital – this is called **Series B funding**
+    + a loan is also called **‘Debt’** from a bank
++ Raising money through debt has interest rate burden, also called the finance charges which would eat away the profits the company generates.
++ VC funding is usually small and runs into a few crores.**Private Equity(PE)** investors invest large amounts of money with the objective of not only providing the capital for constructive use but also place their own people on the board of the investee company to ensure the company steers in the required direction.
++ When a company files for an IPO, they have to offer their shares to the general public. The general public will subscribe to the shares (if they want to) by paying a certain price. If the company is offering the shares for the first time to the public, it is called the “Initial Public Offer’.
+
 # Options Trading
 
 ## Moneyness of an Option :
