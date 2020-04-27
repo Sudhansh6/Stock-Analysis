@@ -2,8 +2,7 @@
 ---
 
 # Contents
-## 1. [Need to invest and investments](#need-to-invest)
-+ 
+## 1. [Need to invest and investments](#need-to-invest-and-investments)
 ## 2. [Trading Stocks](trading-stocks)
 ## 3. [Options Trading](options-trading)
 + Moneyness of an Option
@@ -18,9 +17,26 @@ In a nutshell, investment is important inorder to shield ourselves from inflatio
 
 We can invest in any of the following asset classes :
 1. Fixed income instruments
+> These are investable instruments with very limited risk to the principle and the return is paid as an interest to the investor based on the particular fixed-income instrument.At the end of the term of deposit, (also known as maturity period) the capital is returned to the investor. Bonds and Fixed Deposits are Fixed income instruments. Interest varies around 8% to 11%.
+
 2. Equity
+> Investment in Equities involves buying shares of publicly listed companies. The shares are traded both on the Bombay Stock Exchange (BSE), and the National Stock Exchange (NSE). There is no capital guarantee here. The returns are higher and tax is also low.
+
 3. Real estate
+> Real Estate Investment involves transacting (buying and selling) commercial and non-commercial land. Typical examples would include transacting in sites, apartments and commercial buildings. There are two sources of income from real estate investments namely – Rental income, and Capital appreciation of the investment amount.
+
+> The transaction procedure can be quite complex involving legal verification of documents. The cash outlay in real estate investment is usually quite large.
+
 4. Commodities (precious metals)
+> Investments in gold and silver are considered one of the most popular investment avenues. Gold and silver over a long-term period have appreciated in value. Investments in these metals have yielded a CAGR return of approximately 8% over the last 20 years. There are several ways to invest in gold and silver. One can choose to invest in the form of jewelry or Exchange Traded Funds (ETF).  
+
+Investments optimally should have a strong mix of all asset classes. It is smart to diversify your investment among the various asset classes. The technique of allocating money across assets classes is termed as ‘Asset Allocation’.
+
++ Higher the risk, higher the return. Lower the risk, lower is the return.
++ Principal amount is protected in fixed income investments and is relatively less risky. However, you have the risk of losing money when you adjust the return for inflation.
++ Investment in Equities is known to beat inflation and has generated returns close to 14-15% in the past. However, equity investments can be risky
++ Real Estate investment requires a large outlay of cash and cannot be done with smaller amounts. *Liquidity* is another issue with real estate investment – you cannot buy or sell whenever you want. You always have to wait for the right time and the right buyer or seller to transact with you.
++ Gold and silver are known to be a relatively safer but the historical return on such investment has not been very encouraging.
 
 # Trading Stocks
 
