@@ -3,8 +3,12 @@
 
 # Contents
 ## 1. [Need to invest and investments](#need-to-invest)
++ 
 ## 2. [Trading Stocks](trading-stocks)
 ## 3. [Options Trading](options-trading)
++ Moneyness of an Option
++ Volatility
++ Option Greeks
 
 ---
 
