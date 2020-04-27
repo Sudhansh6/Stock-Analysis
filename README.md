@@ -94,7 +94,7 @@ When you buy a share (a share represents part ownership in a company) the only w
 ## Merchant Bankers and the process of becoming public
 > Merchant bankers are also called Book Running Lead Managers (BRLM)/Lead Manager (LM). The job of a merchant banker is to assist the company with various aspects of the IPO process including:
 + Conduct due diligence on the company filing for an IPO, ensure their legal compliance and also issue a due diligence certificate
-+ Should work closely with the company and prepare their listing documents including Draft Red Herring Prospectus (DRHP) - This is an pre-eliminary registration document or prospectus. 
++ Should work closely with the company and prepare their listing documents including Draft Red Herring Prospectus (DRHP) - This is a pre-eliminary registration document or prospectus. 
 A DRHP should contain the following details:  
   
     - The estimated size of the IPO
@@ -117,7 +117,7 @@ Once the stock transitions from primary markets to secondary markets, the stock 
 # Stock Markets
 The stock market is a place where market participants can access any publicly listed company and trade from their point of view, as long as there are other participants who have an opposing point of view.  
 
-The basic principal of a stock price goes like this - If the company is expected to do well (valuation of company will increase) then the trader will buy those stocks and he/she will sell them in the other case.*If the company is expected to do well then traders will buy stocks for higher prices too and the stock prices go up*
+The basic principle of a stock price goes like this - If the company is expected to do well (valuation of company will increase) then the trader will buy those stocks and he/she will sell them in the other case.*If the company is expected to do well then traders will buy stocks for higher prices too and the stock prices go up*
 
 You have to visit a broker to trade. Suppose you are buying stocks, you convey the same to the broker. Before your broker transmits this order to the exchange he needs to ensure you have sufficient money to buy these shares. If yes, then this order ticket hits the stock exchange. Once the order hits the market the stock exchange (through their order matching algorithm) tries to find a seller who is willing to sell you.Once the trade is executed, the shares will be electronically credited to your DEMAT account. Likewise the shares will be electronically debited from the sellers DEMAT account.
 
@@ -140,7 +140,7 @@ There are sector-specific indices which convey the sentiment of specific sectors
 + **Bull Market (Bullish)** – If you believe that the stock prices are likely to go up then you are said to be bullish on the stock price. From a broader perspective, if the stock market index is going up during a particular time period, then it is referred to as the bull market.
 + **Bear Market (Bearish)** – If you believe that the stock prices are likely to go down then you are said to be bearish on the stock price. 
 + **Trend** – Refers to the general market direction, and its associated strength.
-+ **Face value of a stock** – Face value (FV) or par value of a stock indicates the fixed denomination of a share. The face value is important with regard to a corporate action.
++ **Face value of a stock** – Face value (FV) or par value of a stock indicates the fixed denomination of a share. The face value is important with regard to a corporate action. It is nothing but the nominal value of the share so fixed by the company in the beginning. It is the value at which the company registers itself initially. It won’t change daily with the market forces.
 + **52 week high/low** – 52 week high is the highest point at which a stock has traded during the last 52 weeks (which also marks a year) and similarly for 52 week low.
 + **Upper Circuit/Lower Circuit** – The exchange sets up a price band at which the stock can be traded in the market on a given trading day. The highest price the stock can reach on the day is the upper circuit limit and the lowest price is the lower circuit limit. The limit for a stock is set to 2%, 5%, 10% or 20% based on the exchange’s selection criteria. The exchange places these restrictions to control excessive volatility when a stock reacts to certain news related to the company.
 + **Long Position** - If you are long on a stock or an index, you are said to be bullish.
@@ -153,8 +153,69 @@ There are sector-specific indices which convey the sentiment of specific sectors
     * *Futures and Options* – Futures and Option, generally referred to as the equity derivative segment is where one would trade leveraged products. 
     * *Wholesale Debt Market* – The wholesale debt market deals with fixed income securities. Debt instruments include government securities, treasury bills, bonds issued by a public sector undertaking, corporate bonds, corporate debentures, etc.
 
-## Trading Terminal
+## Trading Terminal and Transaction Process
+- The last traded price of the stock (LTP) – This gives us a sense of how much the stock is trading at the very moment
+- Percentage change – This indicates the percentage points the LTP is varying with respect to the previous day close  
 
+Buying Options - 
++ Limit Price - This is used to buy a stock at a fixed price given by the buyer. You can get these stocks if the stock price goes down to limit price.
++ Market price - This is used to buy shares at market price. In this case, the buyer doesn't know the exact price he/she is transacting at.
++ A stop-loss order protects you from an adverse movement in the market after initiating a position. That is, the share will be sold if the share price goes below the *trigger price*.
+
+CNC when holding position is greater than days and NRML/MIS for intra-day positions.The bid & ask prices refer to the price at which you can transact. 
+The buying process-
+- The day you make the transaction is referred to as the trade date, represented as ‘T Day’.(the price includes brokerage charges)
+- The day after you made the transaction is called the T+1 day. On T+1 day you can sell the stock that you purchased the previous day. The shares are not in your DEMAT account yet.( Hence, can be risky)
+- On T+2 day, the seller is credited with your money and you acquire the shares in your DEMAT account.
+
+## Corporate Actions
+1. Dividends
+> Dividends are paid by the company to its shareholders. Dividends are paid to distribute the profits made by the company during the year(need not be from profits alone). Dividends are paid on a per-share basis. It is not mandatory to pay out dividends every year.Only shareholders who own the shares before the ex-dividend date are entitled to the dividend. After the ex-dividend date, the share prices get reduced by to the extent of the dividend. This can be explained in 2 ways - 
+* Once the dividend is paid, the assets and shareholders equity get reduced by that extent.
+* On payment of dividend, the buyers will know that the value of the company has gone down by the value of dividend per share. Hence, the buyer will buy shares for a lesser price.
+
+2. Bonus Issue
+> A bonus issue is a stock dividend issued out of the reserves of the company. These are free shares that the shareholders receive against shares that they currently hold. If the ratio is 2:1 ratio, the existing shareholders get 2 additional shares for every 1 share they hold. The value of each share reduces in the ratio of Bonus Issue.
+
+3. Stock Split
+> Each stock is split in a certain ratio to reduce share price and encourage retail participation.
+
+4. Rights Issue
+> Inorder to raise funds, the company offers the existing shareholders to buy more shares at a lower price. An existing shareholder may subscribe to this is he/she believes in the future of the company. The share price may decrease after this action.
+
+5. Buyback of Shares
+> A buyback can be seen as a method for a company to invest in itself by buying shares from other investors in the market. Buybacks reduce the number of shares outstanding in the market.This usually results in increase in share price. There could be many reasons why corporates choose to buy back shares
+- To prove the profitability on a per-share basis
+- To consolidate their stake in the company
+- To prevent other companies from taking over
+- To show the confidence of the promoters about their company
+- To support the share price from declining in the markets
+
+## Factors affecting markets
+- Monetary Policy - 
+While setting the interest rates the RBI has to strike a balance between growth and inflation. In a nutshell – if the interest rates are high that means the borrowing rates are high (particularly for corporations). If corporate can’t borrow easily they cannot grow. If corporations don’t grow, the economy slows down.On the other hand, when the interest rates are low, borrowing becomes easier. This translates to more money in the hands of corporations and consumers. With more money, there is increased spending which means the sellers tend to increase prices leading to inflation.  
+    Repo Rate – Whenever banks want to borrow money they can borrow from the RBI. The rate at which RBI lends money to other banks is called the repo rate.  
+    Reverse repo rate – Reverse Repo rate is the rate at which RBI borrows money from banks.  
+
+    The RBI meets every two months to review the rates. This is a key event that the market watches out for. The first to react to rate decisions would be interest-rate sensitive stocks across various sectors such as – banks, automobile, housing finance, real estate, metals, etc.
+
+- Inflation - 
+Inflation is a sustained increase in the general prices of goods and services.  
+There are two types of inflation indices – Wholesale Price Index (WPI) and Consumer Price Index (CPI). Usually, a low-interest rate tends to increase inflation and a high-interest rate tends to arrest inflation. 
+
+-  Index of Industrial Production (IIP) - 
+The Index of Industrial Production (IIP)  is a short term indicator of how the industrial sector in the country is progressing. The data is released every month (along with inflation data) by the Ministry of Statistics and Programme Implementation (MOSPI).If the IIP is increasing it indicates a vibrant industrial environment (as the production is going up) and hence a positive sign for the economy and markets. A decreasing IIP indicates a sluggish production environment, hence a negative sign for the economy and markets.
+
+- Purchasing Managers Index (PMI) -
+The Purchasing managers’ index (PMI) is an economic indicator that tries to capture the business activity across the manufacturing and service sectors in the country. Increase means expansion of business.
+
+- Budget - 
+A Budget is an event during which the Ministry of Finance discusses the country’s finance in detail. During the budget presentation, major policy announcements and economic reforms are announced which has an impact on various industries across the markets. Therefore the budget plays a very important role in the economy.
+For ex, if tax rates on a particular product are increased, then the profits of the product manufacturing company may come down. Hence, its share price comes down and its weightage as an index stock will decrease.Budget is an annual event and it is announced during the last week of February. The volatility of market greatly increases before budget presentation.
+
+-  Corporate Earnings Announcement - 
+The listed companies (trading on stock exchange) are required to declare their earning numbers once in every quarter, also called the quarterly earnings numbers. During an earnings announcement, the corporate gives out details on various operational activities including the revenue generated, expense management, amount of money paid as taxes and interests and profitability.  
+The market participant’s expectation is called the ‘street expectation’. The stock price will react positively if the company’s earnings are better than the street expectation.  
 
 # Options Trading
 
