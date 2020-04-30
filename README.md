@@ -8,6 +8,8 @@
 ## 4. [IPO Markets](ipo-markets)
 ## 5. [Stock Markets](stock-markets)
 ## 6. [Options Trading](options-trading)
+## 7. [Technical Analysis](technical-analysis)
+## 8. [Currency Basics](currency-basics)
 
 ---
 
@@ -316,4 +318,37 @@ Theta is a friendly Greek to the option seller. Remember the objective of the op
 ### Vega of an Option :
 >The Vega of an option measures the rate of change of option’s value (premium) with every percentage change in volatility. With increase in volatility, the Vega of an option increases (irrespective of calls and puts), and with increase in Vega, the option premium tends to increase. The effect of Vega is particularly high for ‘Out of the money’ options.
 
+## Technical Analysis
+The following points should be noted while using technical analysis:
+- Trades – TA is best used to identify short term trades. Do not use TA to identify long term investment opportunities. Long term investment opportunities are best identified using fundamental analysis. Also, If you are a fundamental analyst, use TA to calibrate the entry and exit points. 
+- Return per trade – TA based trades are usually short term in nature. Do not expect huge returns within a short duration of time. The trick with being successful with TA is to identify frequent short term trading opportunities which can give you small but consistent profits.
+- Holding Period – Trades based on technical analysis can last anywhere between few minutes and few weeks, and usually not beyond that. 
+- Risk – Often traders initiate a trade for a certain reason, however in case of an adverse movement in the stock, the trade starts making a loss. Usually in such situations, traders hold on to their loss making trade with a hope they can recover
+the loss. 
 
+### Assumptions in Technical Analysis
+1. Markets discount everything – This assumption tells us that, all known and unknown information in the public domain is reflected in the latest stock price. For example there could be an insider in the company buying the company’s stock in
+large quantity in anticipation of a good quarterly earnings announcement. While he does this secretively, the price reacts to his actions thus revealing to the technical analyst that this could be a good buy.
+2. The ‘how’ is more important than ‘why’ – This is an extension to the first assumption. Going with the same example as discussed above – the technical analyst would not be interested in questioning why the insider bought the stock as long he knows how the price reacted to the insider’s action.
+3. Price moves in trend – All major moves in the market is an outcome of a trend. The concept of trend is the foundation of technical analysis. For example the recent upward movement in the NIFTY Index to 7700 from 6400 did not happen overnight.
+This move happened in a phased manner, in over 11 months. Another way to look at it is, once the trend is established, the price moves in the direction of the trend.
+4. History tends to repeat itself – In the technical analysis context, the price trend tends to repeat itself. This happens because the market participants consistently react to price movements in a remarkably similar way, each and every time the price moves in a certain direction. For example in up trending markets, market participants get greedy and want to buy irrespective of the high price. Likewise in a down trend, market participants want to sell irrespective of the low and unattractive prices. This human reaction ensures that the price history repeats itself.
+
+### Charts
+The advantage of the line chart is its simplicity. With one glance, the trader can identify the generic trend of the security. However the disadvantage of the line chart is also its simplicity. Besides giving the analysts a view on the trend, the line chart does not provide any additional detail. Plus the line chart takes into consideration only the closing prices ignoring the open, high and low.
+Example of line chart :  
+![Line Chart](https://zerodha.com/varsity/wp-content/uploads/2014/09/M2-Ch3-Chart1.jpg)
+
+The bar chart consists of vertical lines which span the low and high of the day and two horizontal lines - left horizontal line represents the day's open and the right one represents the day's close. Example of a bar chart:  
+![Bar Chart](https://zerodha.com/varsity/wp-content/uploads/2014/09/M2-Ch3-Chart2.jpg)
+
+The Japanese Candlesticks have a central thick body spanning from close to open (if close is greater than open then it is called a bullish candle and bearish candle otherwise) and a shadow(thin line) spanning from low to high.  
+![Bullish Candle](https://zerodha.com/varsity/wp-content/uploads/2014/09/M2-ch3-diagrams-5.jpg)
+![Bearish Candle](https://zerodha.com/varsity/wp-content/uploads/2014/09/M2-ch3-diagrams-7.jpg)  
+This is how a candlestick chart looks like - 
+![CandleStick chart](https://zerodha.com/varsity/wp-content/uploads/2014/09/M2-Ch3-Chart3.jpg)
+
+A long bodied candle depicts strong buying or selling activity. A short bodied candle depicts less trading activity and hence less price movement.
+## Currency Basics
+
+**Financial liquidity** refers to how easily assets can be converted into cash. Assets like stocks and bonds are very liquid since they can be converted to cash within days. However, large assets such as property, plant, and equipment are not as easily converted to cash.
