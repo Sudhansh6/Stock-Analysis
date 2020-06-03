@@ -354,7 +354,41 @@ The following assumptions should be kept in mind:
 - Be flexible with patterns (quantify and verify) – While the text book definition of a pattern could state a certain criteria, there could be minor variations to the pattern owing to market conditions. So one needs to be a bit flexible. However one needs to be flexible within limits, and hence it is required to always quantify the flexibility.
 - Look for a prior trend – If you are looking at a bullish pattern, the prior trend should be bearish and likewise if you are looking for a bearish pattern, the prior trend should be bullish.
 
+### Single Candlestick Patterns  
 ### Marubozu
+> A Marubozu ('bald' in Japanese) has negligble upper and lower shadows. It can appear anywhere on the chart without any specific prior trend.
+#### Bullish Marubozu -
+> **Thoughts**: Buyers are strongly bullish and have bought shares at every price. This trend is expected to continue.  
+**Recommended Actions**: Look for buying oppurtunities. The *buy price should be around closing price* of Marubozu. The *stop loss can be set to low of Marubozu*. It is not recommended to trade on extremely short or long candles.  
+
+### Spinning top
+> A Spinning top has short body and almost equal upper and lower shadows. 
+> **Thoughts**: The bulls and bears both tried to influence the market but their attempts were futile. It shows indecisiveness amongst both bulls and bears.
+#### Spinning Tops in Downtrend:
+> **Thoughts**: The market may continue to be bearish or it may reverse ending up in bullish sessions with equal probability.  
+ **Recommended Actions**: The trader needds to be prepared for both scenarios. They may place half of their investment for trading.  
+ 
+### The Dojis
+ > A Doji has negligible or nil body and there are no restrictions on the shadows. Explanations are similar to that of Spinning Top.
+
+### Paper Umbrella
+> A paper umbrella is characterized by a long lower shadow(x2 body) with a small upper body. *Hammer may have less risk compared to Hanging Man*.
+#### Hammer
+> Appears after a downtrend
+**Thoughts**: Bears were controlling the market until this pattern is seen. The bulls attempted to take control. A bullish trend may be seen in the following sessions.
+**Recommended Actions**: Look for buying oppurtunities. The *stoploss is the low of hammer*.
+#### Hanging Man
+> Appears after an uptrend.
+**Thoughts**: Bulls were in control of the market. Appearance of Hanging Man shows that the bears have entered the market.  
+**Recommended Actions**: A short can be initiated with *high of candle as stop loss*.  
+
+### The Shooting Star
+> It looks like an inverted Paper Umbrella. Prior trend should be Bullish.
+**Thoughts**: Bulls were in control but Bears made a good attempt to control the markets. The bears are expecteed to control the market over the next trading sessions.  
+**Recommended Actions**: *High of the body can be set to stoploss* for a short trade.  
+
+### Multiple Candlestick Patterns
+###
 
 ## Currency Basics
 
