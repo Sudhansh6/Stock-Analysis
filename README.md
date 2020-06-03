@@ -318,7 +318,7 @@ Theta is a friendly Greek to the option seller. Remember the objective of the op
 ### Vega of an Option :
 >The Vega of an option measures the rate of change of option’s value (premium) with every percentage change in volatility. With increase in volatility, the Vega of an option increases (irrespective of calls and puts), and with increase in Vega, the option premium tends to increase. The effect of Vega is particularly high for ‘Out of the money’ options.
 
-## Technical Analysis
+# Technical Analysis
 The following points should be noted while using technical analysis:
 - Trades – TA is best used to identify short term trades. Do not use TA to identify long term investment opportunities. Long term investment opportunities are best identified using fundamental analysis. Also, If you are a fundamental analyst, use TA to calibrate the entry and exit points. 
 - Return per trade – TA based trades are usually short term in nature. Do not expect huge returns within a short duration of time. The trick with being successful with TA is to identify frequent short term trading opportunities which can give you small but consistent profits.
@@ -326,7 +326,7 @@ The following points should be noted while using technical analysis:
 - Risk – Often traders initiate a trade for a certain reason, however in case of an adverse movement in the stock, the trade starts making a loss. Usually in such situations, traders hold on to their loss making trade with a hope they can recover
 the loss. 
 
-### Assumptions in Technical Analysis
+## Assumptions in Technical Analysis
 1. Markets discount everything – This assumption tells us that, all known and unknown information in the public domain is reflected in the latest stock price. For example there could be an insider in the company buying the company’s stock in
 large quantity in anticipation of a good quarterly earnings announcement. While he does this secretively, the price reacts to his actions thus revealing to the technical analyst that this could be a good buy.
 2. The ‘how’ is more important than ‘why’ – This is an extension to the first assumption. Going with the same example as discussed above – the technical analyst would not be interested in questioning why the insider bought the stock as long he knows how the price reacted to the insider’s action.
@@ -334,7 +334,7 @@ large quantity in anticipation of a good quarterly earnings announcement. While 
 This move happened in a phased manner, in over 11 months. Another way to look at it is, once the trend is established, the price moves in the direction of the trend.
 4. History tends to repeat itself – In the technical analysis context, the price trend tends to repeat itself. This happens because the market participants consistently react to price movements in a remarkably similar way, each and every time the price moves in a certain direction. For example in up trending markets, market participants get greedy and want to buy irrespective of the high price. Likewise in a down trend, market participants want to sell irrespective of the low and unattractive prices. This human reaction ensures that the price history repeats itself.
 
-### Charts
+## Charts
 The advantage of the line chart is its simplicity. With one glance, the trader can identify the generic trend of the security. However the disadvantage of the line chart is also its simplicity. Besides giving the analysts a view on the trend, the line chart does not provide any additional detail. Plus the line chart takes into consideration only the closing prices ignoring the open, high and low.
 Example of line chart :  
 ![Line Chart](https://zerodha.com/varsity/wp-content/uploads/2014/09/M2-Ch3-Chart1.jpg)
@@ -354,42 +354,193 @@ The following assumptions should be kept in mind:
 - Be flexible with patterns (quantify and verify) – While the text book definition of a pattern could state a certain criteria, there could be minor variations to the pattern owing to market conditions. So one needs to be a bit flexible. However one needs to be flexible within limits, and hence it is required to always quantify the flexibility.
 - Look for a prior trend – If you are looking at a bullish pattern, the prior trend should be bearish and likewise if you are looking for a bearish pattern, the prior trend should be bullish.
 
-### Single Candlestick Patterns  
+## Gaps
+**Gap up opening** – A gap up opening indicates buyer’s enthusiasm. Buyers are willing to buy stocks at a price higher than the previous day’s close. Hence, because of enthusiastic buyer’s outlook, the stock (or the index) opens directly above the previous day’s close.  
+**Gap down opening** – Similar to gap up opening, a gap down opening shows the enthusiasm of the bears. The bears are so eager to sell, that they are willing to sell at a price lower than the previous day’s close.
+
+## Single Candlestick Patterns  
 ### Marubozu
-> A Marubozu ('bald' in Japanese) has negligble upper and lower shadows. It can appear anywhere on the chart without any specific prior trend.
-#### Bullish Marubozu -
-> **Thoughts**: Buyers are strongly bullish and have bought shares at every price. This trend is expected to continue.  
-**Recommended Actions**: Look for buying oppurtunities. The *buy price should be around closing price* of Marubozu. The *stop loss can be set to low of Marubozu*. It is not recommended to trade on extremely short or long candles.  
+A Marubozu ('bald' in Japanese) has negligible upper and lower shadows. It can appear anywhere on the chart without any specific prior trend.
+**Bullish Marubozu** -  
+
+**Thoughts**: Buyers are strongly bullish and have bought shares at every price. This trend is expected to continue.  
+**Recommended Actions**: Look for buying opportunities. The *buy price should be around the closing price* of Marubozu. The *stop loss can be set to low of Marubozu*. It is not recommended to trade on extremely short or long candles.  
 
 ### Spinning top
-> A Spinning top has short body and almost equal upper and lower shadows. 
-> **Thoughts**: The bulls and bears both tried to influence the market but their attempts were futile. It shows indecisiveness amongst both bulls and bears.
-#### Spinning Tops in Downtrend:
-> **Thoughts**: The market may continue to be bearish or it may reverse ending up in bullish sessions with equal probability.  
- **Recommended Actions**: The trader needds to be prepared for both scenarios. They may place half of their investment for trading.  
+A Spinning top has a short body and almost equal upper and lower shadows.  
+**Thoughts**: The bulls and bears both tried to influence the market but their attempts were futile. It shows indecisiveness amongst both bulls and bears.  
+**Spinning Tops in Downtrend**:  
+
+**Thoughts**: The market may continue to be bearish or it may reverse ending up in bullish sessions with equal probability.  
+**Recommended Actions**: The trader needs to be prepared for both scenarios. They may place half of their investment for trading.  
  
 ### The Dojis
- > A Doji has negligible or nil body and there are no restrictions on the shadows. Explanations are similar to that of Spinning Top.
+A Doji has negligible or nil body and there are no restrictions on the shadows. Explanations are similar to that of Spinning Top.  
 
 ### Paper Umbrella
-> A paper umbrella is characterized by a long lower shadow(x2 body) with a small upper body. *Hammer may have less risk compared to Hanging Man*.
+A paper umbrella is characterized by a long lower shadow(x2 body) with a small upper body. *Hammer may have less risk compared to Hanging Man*.
 #### Hammer
-> Appears after a downtrend
-**Thoughts**: Bears were controlling the market until this pattern is seen. The bulls attempted to take control. A bullish trend may be seen in the following sessions.
-**Recommended Actions**: Look for buying oppurtunities. The *stoploss is the low of hammer*.
+Appears after a downtrend  
+**Thoughts**: Bears were controlling the market until this pattern is seen. The bulls attempted to take control. A bullish trend may be seen in the following sessions.  
+**Recommended Actions**: Look for buying opportunities. The *stoploss is the low of the hammer*.
 #### Hanging Man
-> Appears after an uptrend.
+Appears after an uptrend.  
 **Thoughts**: Bulls were in control of the market. Appearance of Hanging Man shows that the bears have entered the market.  
-**Recommended Actions**: A short can be initiated with *high of candle as stop loss*.  
+**Recommended Actions**: A short can be initiated with *high of the candle as stop loss*.  
 
 ### The Shooting Star
-> It looks like an inverted Paper Umbrella. Prior trend should be Bullish.
+It looks like an inverted Paper Umbrella. Prior trend should be Bullish.  
 **Thoughts**: Bulls were in control but Bears made a good attempt to control the markets. The bears are expecteed to control the market over the next trading sessions.  
 **Recommended Actions**: *High of the body can be set to stoploss* for a short trade.  
 
-### Multiple Candlestick Patterns
-###
+## Multiple Candlestick Patterns
+### The Engulfing Pattern
+In a typical engulfing pattern a small candle is followed by a relatively long candle which appears as if it (the body) engulfs the candle on day 1. If the engulfing pattern appears at the bottom of the trend, it is called the “Bullish Engulfing” pattern. If the engulfing pattern appears at the top end of the trend, it is called the “Bearish Engulfing” pattern.  
 
-## Currency Basics
+**Bullish Engulfing Pattern**  
+
+The prior trend should be downtrend. The first candle must be bearish followed by longer bullish candle. Can be relied upon in many occasions.  
+**Thoughts**: The bears were in control of market. Bulls succesfully took over the market in the next trading session which is evident from the longer blue candle.  
+**Recommended Actions**: *The buy price can be set to close of blue candle*. A risk averse trader can set up trade after ensuring a blue candle is seen on the next day. *The stoploss can be set to low of the two candles of the pattern*.  
+
+**Bearish Engulfing Pattern**  
+Similar explanations as above.  
+
+- If a doji follows the engulfing candle then the opportunities are bigger. It shows indecisiveness after a panic session.  
+
+**Piercing Pattern**
+Similar to *Bullish Engulfing pattern* but the second candle engulfs 50-100% of first candle. Similat thought processes apply.  
+
+**Dark Cloud Cover**
+It is the inverse of Piercing Pattern, i.e; It is similar to *Bearish Engulfing Pattern*.    
+
+- Typically stocks in the same sector have similar price movement. For example, think about TCS and Infosys or ICICI Bank and HDFC bank. Their price movement is similar because these companies are more or less of the same size, have similar business, and the same external factors that affect their business.  
+
+### The Harami Pattern
+Harami is a two candle pattern. The first candle is usually long and the second candle has a small body. The second candle is generally opposite in colour to the first candle. On the appearance of the harami pattern a trend reversal is possible.   
+
+**Bullish Harami**  
+Appears after a down trend. A bearish candle is followed a bullish candle. The opening on P2 should be higher than the close of P1.  
+**Thoughts**: On day 1 of the pattern (P1) a red candle with a new low is formed, reinforcing the
+bear’s position in the market. On day 2 of the pattern (P2) the market opens at a price higher than the previous day’s close. On seeing a high opening price the bears panic ,as they would have otherwise expected a lower opening price. The blue candle not only encourages the bulls to build long positions, but also unnerves the bears.  
+**Recommended Actions**: Go for a long trade. *The lowest low of the pattern will be the stoploss for the trade*.  
+
+**Bearish Harami**  
+Appears after an uptrend. The open of P2 should be lower than close of P1.  
+
+### Morning Star
+The morning star is a bullish candlestick pattern which evolves over a three day period. It is a downtrend reversal pattern. The pattern is formed by combining 3 consecutive candlesticks. The morning star appears at the bottom end of a down trend.
+**Thoughts**: P1 establishes bears influence over the market with a bearish candle. P2 opens with a gap down much to the joy of the bears. Although, P2 ends up becoming a spinning top or Doji showing indecision in the market. P3 opens with a gap up to the astonishment of bears. The candle must cross the open of P1 candle.  
+**Recommended Actions**: Go for a long trade if current market price on P3 is higher than open of P1. *The lowest low in the pattern would act as a stop loss for the trade*.  
+
+### Evening Star
+The evening star is bearish equivalent of Morning Star. Explanations are similar to above.  
+
+## Support and Resistance
+The best way to identify the target price is to identify the support and the resistance points. The support and resistance (S&R) are specific price points on a chart which are expected to attract maximum amount of either buying or selling. The support price is a price at which one can expect more buyers than sellers. Likewise the resistance price is a price at which one can expect more sellers than buyers.
+### Resistance
+The resistance level is a price point on the chart where traders expect maximum supply (in terms of selling) for the stock/index. *The resistance level is always above the current market price*. The likely hood of the price rising up to the resistance level, consolidating, absorbing all the supply, and then declining is high. The resistance often acts as a trigger to sell.
+### Support
+The support level is a price point on the chart where the trader expects maximum demand (in terms of buying) coming into the stock/index. Whenever the price falls to the support line, it is likely to bounce back. The support level is always below the current market price.  
+### Identifying Support and Resistant levels
+1. Identify at least 3 price action zones – A price action zone can be described as ‘sticky points’ on chart where the price has displayed at least one of the behaviors:
+- Hesitated to move up further after a brief up move
+- Hesitated to move down further after a brief down move
+- Sharp reversals at particular price point  
+2. Align the price action zones – When you look at a 12 month chart, it is common to spot many price action zones. But the trick is to identify at least 3 price action zones that are at the same price level.
+3. Fit a Horizontal line.
+### Optimization and Checklist
+We need to prepare a checklist to improve the quality of our trades. The checklist would act as a guiding principle before initiating a trade. The trade should comply to the conditions
+specified in the checklist. If it does, we take the trade; else we just drop it and look for another trade opportunity that complies with the checklist. We can initiate our checklist with the following 2 conditions -
+1. The stock should form a recognizable candlestick pattern
+2. S&R should confirm to the trade. The stoploss price should be around S&R
+- For a long trade, the low of the pattern should be around the support
+- For a short trade, the high of the pattern should be around the resistance
+
+## Volumes
+Volumes indicate how many shares are bought and sold over a given period of time. The more active the share, higher would be its volume.
+### Volume Trend Table
+|Sl No| Price| Volume| What is the expectation?|
+|---|---|---|---|
+|01| Increases| Increases| Bullish|
+|02| Increases| Decreases| Caution – weak hands buying|
+|03| Decreases| Increases| Bearish|
+|04| Decreases| Decreases| Caution – weak hands selling|  
+
+Generally the rule of thumb is as follows:
+- High Volume = Today’s volume > last 10 days average volume
+- Low Volume = Today’s volume < last 10 days average volume
+- Average Volume = Today’s volume = last 10 days average volume  
+
+**When volume increases substantially, it could mean that large institutions are at play**.  
+If both the price and the volume are increasing this only means one thing – a big player is showing interest in the stock. Going by the assumption that smart money always makes smart choices the expectation turns bullish and hence one should look at buying opportunity in the stock.  
+*It is recommended to avoid trading on low volume days*.
+We can add a 3rd condition to our [checklist](optimization-and-checklist)  
+3. Volumes should confirm to the trade
+
+## Moving Average
+- Simple Moving Average (SMP) - All data points are given equal weightage
+- Exponential Moving Average (EMP) - Newer data points are given more weightage.  
+EMA is quicker to react to the current market price because EMA gives more importance to the most recent data points. This helps the trader to take quicker trading decisions. Hence for this reason, traders prefer the use of the EMA over the SMA.  
+### Applications of Moving Average
+The moving average can be used to identify buying and selling opportunities with its own merit. When the stock price trades above its average price, it means the traders are willing to buy the stock at a price higher than its average price. This means the traders are optimistic about the stock price going higher. Therefore one should look at buying opportunities. Likewise, when the stock price trades below its average price, one should look at selling opportunities.
+A trade can be set up as follows -  
+1. Buy (go long) when the current market price turns greater than the 50 day EMA. Once you go long, you should stay invested till the necessary sell condition is satisfied
+2. Exit the long position (square off) when the current market price turns lesser than the 50 day EMA.  
+
+### Moving Average Crossover System
+A typical example of this would be to combine a 50 day EMA, with a 100 day EMA. The shorter moving average (50 days in this case) is also referred to as the faster moving average. The longer moving average (100 days moving average) is referred to as the slower moving average.  
+The entry and exit rules for the crossover system is as stated below:
+1. Buy (fresh long) when the short term moving averages turns greater than the long term moving average. Stay in the trade as long as this condition is satisfied
+2. Exit the long position (square off) when the short term moving average turns lesser than the longer term moving average
+These crossovers are used widely - 
+- 9 X 21 day for short term trades.
+- 25 X 50 for trades lasting over a few weeks
+- 50 X 100 for trades lasting upto a few months
+- 100 X 200 for long-term investments.
+
+## Indicators
+Indicators are independent trading systems introduced to the world by successful traders. Indicators are built on preset logic using which traders can supplement their technical study (candlesticks, volumes, S&R) to arrive at a trading decision. Indicators help in buying, selling, confirming trends, and sometimes predicting trends.  
+Indicators are of two types namely leading and lagging.  A leading indicator leads the price, meaning it usually signals the occurrence of a reversal or a new trend in advance.A majority of leading indicators are called oscillators as they oscillate within a bounded range.  A lagging indicator on the other hand lags the price; meaning it usually signals the occurrence of a reversal or a new trend after it has occurred.  
+**Momentum is the rate at which the price changes.**  
+### Relative Strength Index (RSI)
+RSI is the most popular leading indicator, which gives out strongest signals during the periods of sideways and non trending ranges. It oscillates between 1 and 100.  
+` RSI = 100 - 100/(1 + RS)`
+` RS = Average Gain/ Average Loss`
+Average Gain and Loss are calculated over the previous 14 trading sessions. Look [here](https://zerodha.com/varsity/chapter/indicators-part-1/) for detailed explanation.   
+When the RSI reading is between 30 and 0, the security is supposed to be oversold and ready for an upward correction. When the security reading is between 70 and 100, the security is supposed to be heavily bought and is ready for a downward correction. We can infer the following - 
+1. If the RSI is fixed in an overbought region for a prolonged period, look for buying opportunities instead of shorting. The RSI stays in the overbought region for a prolonged period because of an excess positive momentum
+2. If the RSI is fixed in an oversold region for a prolonged period, look for selling opportunities rather than buying. 
+3. If the RSI value starts moving away from the oversold value after a prolonged period, look for buying opportunities. For example, the RSI moves above 30 after a long time may mean that the stock may have bottomed out, hence a case of going long.
+4. If the RSI value starts moving away from the overbought value after a prolonged period, look for selling opportunities.  
+None of the parameters used while analysing RSI should be treated with rigidity. The fewer days opted for lookback (the 14 day period) more the volatility.
+
+### Moving Average Convergence and Divergence (MACD)
+Though invented in the seventies, MACD is still considered as one of the most reliable indicators by momentum traders. Convergence occurs when the two moving averages move towards each other, and a divergence occurs when the moving averages move away from each other.  
+A standard MACD is calculated using a 12 day EMA and a 26 day EMA. Please note, both the EMA’s are based on the closing prices. We subtract the 26 EMA from the 12 day EMA, to estimate the convergence and divergence (CD) value.  
+A positive sign tells us that there is positive momentum in the stock, and the stock is drifting upwards. The higher the momentum, the higher is the magnitude (relative to the stock price).
+The following can be inferred from MACD spread - 
+1. When the MACD Line crosses the center line from the negative territory to positive territory, it means there is divergence between the two averages. This is a sign of increasing bullish momentum. Therefore one should look at buying opportunities.  
+2. When the MACD line crosses the center line from positive territory to the negative territory it means there is convergence between the two averages. This is a sign of increasing bearish momentum. Therefore one should look at selling opportunities.
+
+A signal for behaviour of MACD line is the 9 day signal line. It is the EMA of MACD line. This line enables us to initiate witohut the requirement of MACD line crossing the central line. It follows the same principal as the Moving Average Crossovers but is further smoothened out. We can say the following - 
+1. The sentiment is bullish when the MACD line crosses the 9 day EMA wherein MACD line is greater than the 9 day EMA. When this happens, the trader should look at buying opportunities.
+2. The sentiment is bearish when the MACD line goes below the 9 day EMA. When this happens, the trader should look at selling opportunities.  
+**MACD indicator works quite well when there is a strong trend and is not too useful when the markets are moving sideways.**  
+
+### The Bollinger Bands (BB)
+Bollinger bands (BB) is perhaps one of the most useful indicators used in technical analysis. BB are used to determine overbought and oversold levels, where a trader will try to sell when the price reaches the top of the band and will execute a buy when the price reaches the bottom of the band.  
+The BB has 3 components:
+1. Middle line which is The 20 day simple moving average of the closing prices
+2. An upper band – this is the +2 standard deviation of the middle line
+3. A lower band – this is the -2 standard deviation of the middle line  
+
+The upper and lower bands act as a trigger to intiatea trade. When the current price is near the upper band, short trades can be initiated. It is expected that the price will go back to its average price.   
+The BB’s upper and lower band together forms an envelope. The envelope expands, whenever the price drifts in a particular direction indicating a strong momentum. The BB signal fails when there is an envelope expansion. **This leads us to an important conclusion; BB works well in sideways markets, and fails in a trending market.**  
+
+We can add another condition to our [checklist](optimization-and-checklist) -  
+4. Indicators should confirm. (It isn't as important as other conditions)
+
+# Currency Basics
 
 **Financial liquidity** refers to how easily assets can be converted into cash. Assets like stocks and bonds are very liquid since they can be converted to cash within days. However, large assets such as property, plant, and equipment are not as easily converted to cash.
