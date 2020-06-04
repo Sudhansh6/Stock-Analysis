@@ -550,11 +550,11 @@ Fibonacci retracement levels are horizontal lines that indicate where support an
 Whenever the stock moves either upwards or downwards sharply, it usually tends to retrace back before its next move. ‘The retracement level forecast’ is a technique using which one can identify upto which level retracement can happen.
 ![Fibonacci Retracement](https://zerodha.com/varsity/wp-content/uploads/2014/10/M2Ch16-chart2.jpg)
 
-In the above chart, the stock started its rally at Rs.380 and went upto Rs.489. **This is Defined as a Fibonnaci Upmove**. A correction that lasts upto a Fibonacci Ratio is expected in the stock. For example, the first level up to which the stock can correct could be 23.6%. If this stock continues to correct further, the trader can watch out for the 38.2% and 61.8% levels. In the above chart, the stock came to Rs.421 before it resumed the rally. Total Fibonacci Upmove was Rs.109. 489 - 109* 0.618 = 421. Hence, the stock has retraced upto 61.8%.  
+In the above chart, the stock started its rally at Rs.380 and went upto Rs.489. **This is Defined as a Fibonacci Up move**. A correction that lasts upto a Fibonacci Ratio is expected in the stock. For example, the first level up to which the stock can correct could be 23.6%. If this stock continues to correct further, the trader can watch out for the 38.2% and 61.8% levels. In the above chart, the stock came to Rs.421 before it resumed the rally. Total Fibonacci Up move was Rs.109. 489 - 109* 0.618 = 421. Hence, the stock has retraced upto 61.8%.  
 The Fibonacci retracements can also be applied to stocks that are falling, in order to identify levels upto which the stock can bounce back.  
 ### Fibonacci Retracement construction
 Fibonacci retracements are movements in the chart that go against the trend. To use the Fibonacci retracements we should first identify the 100% Fibonacci move. The 100% move can be an upward rally or a downward rally. To mark the 100% move, we need to pick the most recent peak and trough on the chart. Once this is identified, we connect them using a Fibonacci retracement tool.  
-The Fibonacci Retracements can be useful when you wanted to buy a particular stock but you have not been able to do so because of a sharp run up in the stock. In such a situation the most prudent action to take would be to wait for a retracement in the stock.
+The Fibonacci Retracements can be useful when you wanted to buy a particular stock but you were not able to do so because of a sharp run up in the stock. In such a situation the most prudent action to take would be to wait for a retracement in the stock.
 
 ## The Dow Theory
 ### The Dow Tenets
@@ -585,9 +585,9 @@ Smart money is usually the institutional investors who invest from a long term p
 **Mark Up Phase** - After all the stocks are bought, short term traders sense the occurrence of a support. These factors tend to take the stock price higher. This is called the mark up phase. During the Mark up phase, the stock price rallies quickly and sharply. The most important feature of the mark up phase is the speed. Because the rally is quick, the public at large is left out of the rally.    
 
 **Distribution Phase** - Finally when the stock price reaches new highs (52 week high, all time high), the news reports turn optimistic, business environment suddenly appears vibrant, and everyone (public) wants to invest in the markets. This is when the distribution phase occurs.  
-The judicious investors who got in early (during the accumulation phase) will start offloading their shares slowly. The public will absorb all the volumes off loaded by the institutional investors (smart money) there by giving them the well needed price support. The distribution phase has similar price properties as that of the accumulation phase.In the distribution phase, whenever the prices attempt to go higher, the smart money off loads their holdings. Over a period of time this action repeats several times and thus the resistance level is created.
+The judicious investors who got in early (during the accumulation phase) will start offloading their shares slowly. The public will absorb all the volumes off loaded by the institutional investors (smart money) there by giving them the well needed price support. The distribution phase has similar price properties as that of the accumulation phase.In the distribution phase, whenever the prices attempt to go higher, the smart money offloads their holdings. Over a period of time this action repeats several times and thus the resistance level is created.
 
-**Mark Down Phase** - Finally when the institutional investors (smart money) completely sell off their holdings, there would no further support for prices, and hence what follows after the distribution phase is a complete sell off in the markets, also known as the mark down of prices.  
+**Mark Down Phase** - Finally when the institutional investors (smart money) completely sell off their holdings, there would be no further support for prices, and hence what follows after the distribution phase is a complete sell off in the markets, also known as the mark down of prices.  
 
 Completing the circle, what follows the selloff phase is a fresh round of accumulation phase, and the whole cycle repeats again. It is believed that that entire cycle from accumulation phase to the selloff spans over a few years.  
 
@@ -607,17 +607,17 @@ Sideways Market occurs due to two reasons -
 - Anticipation of big announcement - Till the announcement is made both buyers and sellers would be hesitant to take action and hence the stock gets into the range.
 
 Range breakout refers to a start of a new trend. A false breakout may also occur. A trader can avoid these by analyzing the volumes. A true breakout usually has very high momentum.
-One can trade on such breakouts. For example, if a stock starts moving up after a breakout, one can go long placing stop loss at resitance level. The stock is expected to move to a price which is higher than the resistance level by a value equivalent to the range.  
-**Flag Formation**
+One can trade on such breakouts. For example, if a stock starts moving up after a breakout, one can go long placing stop loss at resistance level. The stock is expected to move to a price which is higher than the resistance level by a value equivalent to the range.  
+**Flag Formation**  
 The flag formation usually takes place when the stock posts a sustained rally with almost a vertical or a steep increase in stock prices. Flag patterns are marked by a big move which is followed by a short correction. The price decline can last anywhere between 5 to 15 trading sessions.
-With these two events (i.e price rally, and price decline) occurring consecutively a flag formation is formed. When a flag forms, the stock invariably spurts back all of a sudden and continues to rally upwards. A trader can initiate a trade afterflag formation.  
+With these two events (i.e price rally, and price decline) occurring consecutively a flag formation is formed. When a flag forms, the stock invariably spurts back all of a sudden and continues to rally upwards. A trader can initiate a trade after flag formation.  
 A flag forms due to many market participants booking profits due to the rally. The stock rallies up after a flag because 'smart money' is still invested and market sentiment is positive.
 ### Reward to Risk Ratio
  The RRR is higher than 1.3 for good trades.
  
 ## Final Checklist
 1. The stock should form a recognisable candlestick pattern
-2. S&R should confirm to the trade. The stoploss price should be around S&R
+2. S&R should confirm the trade. The stop loss price should be around S&R
 - For a long trade, the low of the pattern should be around the support
 - For a short trade, the high of the pattern should be around the resistance
 3. Volumes should confirm
