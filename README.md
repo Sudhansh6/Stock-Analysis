@@ -382,7 +382,7 @@ A paper umbrella is characterized by a long lower shadow(x2 body) with a small u
 #### Hammer
 Appears after a downtrend  
 **Thoughts**: Bears were controlling the market until this pattern is seen. The bulls attempted to take control. A bullish trend may be seen in the following sessions.  
-**Recommended Actions**: Look for buying opportunities. The *stoploss is the low of the hammer*.
+**Recommended Actions**: Look for buying opportunities. The *stop loss is the lowest point of the hammer*.
 #### Hanging Man
 Appears after an uptrend.  
 **Thoughts**: Bulls were in control of the market. Appearance of Hanging Man shows that the bears have entered the market.  
@@ -391,7 +391,7 @@ Appears after an uptrend.
 ### The Shooting Star
 It looks like an inverted Paper Umbrella. Prior trend should be Bullish.  
 **Thoughts**: Bulls were in control but Bears made a good attempt to control the markets. The bears are expecteed to control the market over the next trading sessions.  
-**Recommended Actions**: *High of the body can be set to stoploss* for a short trade.  
+**Recommended Actions**: *High of the body can be set to stop loss* for a short trade.  
 
 ## Multiple Candlestick Patterns
 ### The Engulfing Pattern
@@ -399,19 +399,19 @@ In a typical engulfing pattern a small candle is followed by a relatively long c
 
 **Bullish Engulfing Pattern**  
 
-The prior trend should be downtrend. The first candle must be bearish followed by longer bullish candle. Can be relied upon in many occasions.  
-**Thoughts**: The bears were in control of market. Bulls succesfully took over the market in the next trading session which is evident from the longer blue candle.  
-**Recommended Actions**: *The buy price can be set to close of blue candle*. A risk averse trader can set up trade after ensuring a blue candle is seen on the next day. *The stoploss can be set to low of the two candles of the pattern*.  
+The prior trend should be downtrend. The first candle must be bearish followed by a longer bullish candle. Can be relied upon in many situations.  
+**Thoughts**: The bears were in control of the market. Bulls successfully took over the market in the next trading session which is evident from the longer blue candle.  
+**Recommended Actions**: *The buy price can be set to the close of the blue candle*. A risk averse trader can set up trade after ensuring a blue candle is seen on the next day. *The stop loss can be set to low of the two candles of the pattern*.  
 
-**Bearish Engulfing Pattern**  
+**Bearish Engulfing Pattern**   
 Similar explanations as above.  
 
 - If a doji follows the engulfing candle then the opportunities are bigger. It shows indecisiveness after a panic session.  
 
-**Piercing Pattern**
-Similar to *Bullish Engulfing pattern* but the second candle engulfs 50-100% of first candle. Similat thought processes apply.  
+**Piercing Pattern**  
+Similar to *Bullish Engulfing pattern* but the second candle engulfs 50-100% of the first candle. Similar thought processes apply.  
 
-**Dark Cloud Cover**
+**Dark Cloud Cover**  
 It is the inverse of Piercing Pattern, i.e; It is similar to *Bearish Engulfing Pattern*.    
 
 - Typically stocks in the same sector have similar price movement. For example, think about TCS and Infosys or ICICI Bank and HDFC bank. Their price movement is similar because these companies are more or less of the same size, have similar business, and the same external factors that affect their business.  
@@ -420,29 +420,29 @@ It is the inverse of Piercing Pattern, i.e; It is similar to *Bearish Engulfing 
 Harami is a two candle pattern. The first candle is usually long and the second candle has a small body. The second candle is generally opposite in colour to the first candle. On the appearance of the harami pattern a trend reversal is possible.   
 
 **Bullish Harami**  
-Appears after a down trend. A bearish candle is followed a bullish candle. The opening on P2 should be higher than the close of P1.  
+Appears after a down trend. A bearish candle is followed by a bullish candle. The opening on P2 should be higher than the close of P1.  
 **Thoughts**: On day 1 of the pattern (P1) a red candle with a new low is formed, reinforcing the
 bear’s position in the market. On day 2 of the pattern (P2) the market opens at a price higher than the previous day’s close. On seeing a high opening price the bears panic ,as they would have otherwise expected a lower opening price. The blue candle not only encourages the bulls to build long positions, but also unnerves the bears.  
 **Recommended Actions**: Go for a long trade. *The lowest low of the pattern will be the stoploss for the trade*.  
 
 **Bearish Harami**  
-Appears after an uptrend. The open of P2 should be lower than close of P1.  
+Appears after an uptrend. The open of P2 should be lower than the close of P1.  
 
 ### Morning Star
 The morning star is a bullish candlestick pattern which evolves over a three day period. It is a downtrend reversal pattern. The pattern is formed by combining 3 consecutive candlesticks. The morning star appears at the bottom end of a down trend.
-**Thoughts**: P1 establishes bears influence over the market with a bearish candle. P2 opens with a gap down much to the joy of the bears. Although, P2 ends up becoming a spinning top or Doji showing indecision in the market. P3 opens with a gap up to the astonishment of bears. The candle must cross the open of P1 candle.  
+**Thoughts**: P1 establishes the influlence of bears over the market with a bearish candle. P2 opens with a gap down much to the joy of the bears. Although, P2 ends up becoming a spinning top or Doji showing indecision in the market. P3 opens with a gap up to the astonishment of bears. The candle must cross the open of the P1 candle.  
 **Recommended Actions**: Go for a long trade if current market price on P3 is higher than open of P1. *The lowest low in the pattern would act as a stop loss for the trade*.  
 
 ### Evening Star
-The evening star is bearish equivalent of Morning Star. Explanations are similar to above.  
+The evening star is the bearish equivalent of Morning Star. Explanations are similar to above.  
 
 ## Support and Resistance
-The best way to identify the target price is to identify the support and the resistance points. The support and resistance (S&R) are specific price points on a chart which are expected to attract maximum amount of either buying or selling. The support price is a price at which one can expect more buyers than sellers. Likewise the resistance price is a price at which one can expect more sellers than buyers.
+The best way to identify the target price is to identify the support and the resistance points. The support and resistance (S&R) are specific price points on a chart which are expected to attract the maximum amount of either buying or selling. The support price is a price at which one can expect more buyers than sellers. Likewise the resistance price is a price at which one can expect more sellers than buyers.
 ### Resistance
 The resistance level is a price point on the chart where traders expect maximum supply (in terms of selling) for the stock/index. *The resistance level is always above the current market price*. The likely hood of the price rising up to the resistance level, consolidating, absorbing all the supply, and then declining is high. The resistance often acts as a trigger to sell.
 ### Support
 The support level is a price point on the chart where the trader expects maximum demand (in terms of buying) coming into the stock/index. Whenever the price falls to the support line, it is likely to bounce back. The support level is always below the current market price.  
-### Identifying Support and Resistant levels
+### Identifying Support and Resistance levels
 1. Identify at least 3 price action zones – A price action zone can be described as ‘sticky points’ on chart where the price has displayed at least one of the behaviors:
 - Hesitated to move up further after a brief up move
 - Hesitated to move down further after a brief down move
@@ -453,7 +453,7 @@ The support level is a price point on the chart where the trader expects maximum
 We need to prepare a checklist to improve the quality of our trades. The checklist would act as a guiding principle before initiating a trade. The trade should comply to the conditions
 specified in the checklist. If it does, we take the trade; else we just drop it and look for another trade opportunity that complies with the checklist. We can initiate our checklist with the following 2 conditions -
 1. The stock should form a recognizable candlestick pattern
-2. S&R should confirm to the trade. The stoploss price should be around S&R
+2. S&R should confirm the trade. The stop loss price should be around S&R
 - For a long trade, the low of the pattern should be around the support
 - For a short trade, the high of the pattern should be around the resistance
 
@@ -473,7 +473,7 @@ Generally the rule of thumb is as follows:
 - Average Volume = Today’s volume = last 10 days average volume  
 
 **When volume increases substantially, it could mean that large institutions are at play**.  
-If both the price and the volume are increasing this only means one thing – a big player is showing interest in the stock. Going by the assumption that smart money always makes smart choices the expectation turns bullish and hence one should look at buying opportunity in the stock.  
+If both the price and the volume are increasing this only means one thing – a big player is showing interest in the stock. Going by the assumption that smart money always makes smart choices the expectation turns bullish and hence one should look at buying opportunities for the stock.  
 *It is recommended to avoid trading on low volume days*.
 We can add a 3rd condition to our [checklist](optimization-and-checklist)  
 3. Volumes should confirm to the trade
@@ -507,7 +507,7 @@ Indicators are of two types namely leading and lagging.  A leading indicator lea
 RSI is the most popular leading indicator, which gives out strongest signals during the periods of sideways and non trending ranges. It oscillates between 1 and 100.  
 ` RSI = 100 - 100/(1 + RS)`
 ` RS = Average Gain/ Average Loss`
-Average Gain and Loss are calculated over the previous 14 trading sessions. Look [here](https://zerodha.com/varsity/chapter/indicators-part-1/) for detailed explanation.   
+Average Gain and Loss are calculated over the previous 14 trading sessions. Look [here](https://zerodha.com/varsity/chapter/indicators-part-1/) for a detailed explanation.   
 When the RSI reading is between 30 and 0, the security is supposed to be oversold and ready for an upward correction. When the security reading is between 70 and 100, the security is supposed to be heavily bought and is ready for a downward correction. We can infer the following - 
 1. If the RSI is fixed in an overbought region for a prolonged period, look for buying opportunities instead of shorting. The RSI stays in the overbought region for a prolonged period because of an excess positive momentum
 2. If the RSI is fixed in an oversold region for a prolonged period, look for selling opportunities rather than buying. 
@@ -523,7 +523,7 @@ The following can be inferred from MACD spread -
 1. When the MACD Line crosses the center line from the negative territory to positive territory, it means there is divergence between the two averages. This is a sign of increasing bullish momentum. Therefore one should look at buying opportunities.  
 2. When the MACD line crosses the center line from positive territory to the negative territory it means there is convergence between the two averages. This is a sign of increasing bearish momentum. Therefore one should look at selling opportunities.
 
-A signal for behaviour of MACD line is the 9 day signal line. It is the EMA of MACD line. This line enables us to initiate witohut the requirement of MACD line crossing the central line. It follows the same principal as the Moving Average Crossovers but is further smoothened out. We can say the following - 
+A signal for behaviour of MACD line is the 9 day signal line. It is the EMA of MACD line. This line enables us to initiate without the requirement of MACD line crossing the central line. It follows the same principle as the Moving Average Crossovers but is further smoothened out. We can say the following - 
 1. The sentiment is bullish when the MACD line crosses the 9 day EMA wherein MACD line is greater than the 9 day EMA. When this happens, the trader should look at buying opportunities.
 2. The sentiment is bearish when the MACD line goes below the 9 day EMA. When this happens, the trader should look at selling opportunities.  
 **MACD indicator works quite well when there is a strong trend and is not too useful when the markets are moving sideways.**  
@@ -535,11 +535,104 @@ The BB has 3 components:
 2. An upper band – this is the +2 standard deviation of the middle line
 3. A lower band – this is the -2 standard deviation of the middle line  
 
-The upper and lower bands act as a trigger to intiatea trade. When the current price is near the upper band, short trades can be initiated. It is expected that the price will go back to its average price.   
+The upper and lower bands act as a trigger to intiate a trade. When the current price is near the upper band, short trades can be initiated. It is expected that the price will go back to its average price.   
 The BB’s upper and lower band together forms an envelope. The envelope expands, whenever the price drifts in a particular direction indicating a strong momentum. The BB signal fails when there is an envelope expansion. **This leads us to an important conclusion; BB works well in sideways markets, and fails in a trending market.**  
 
 We can add another condition to our [checklist](optimization-and-checklist) -  
 4. Indicators should confirm. (It isn't as important as other conditions)
+
+## Fibonacci Retracements
+Fibonacci Ratios :
+- f(n)/f(n+1) = 0.618
+- f(n)/f(n+2) = 0.382
+- f(n)/f(n+3) = 0.236
+Fibonacci retracement levels are horizontal lines that indicate where support and resistance are likely to occur.  
+Whenever the stock moves either upwards or downwards sharply, it usually tends to retrace back before its next move. ‘The retracement level forecast’ is a technique using which one can identify upto which level retracement can happen.
+![Fibonacci Retracement](https://zerodha.com/varsity/wp-content/uploads/2014/10/M2Ch16-chart2.jpg)
+
+In the above chart, the stock started its rally at Rs.380 and went upto Rs.489. **This is Defined as a Fibonnaci Upmove**. A correction that lasts upto a Fibonacci Ratio is expected in the stock. For example, the first level up to which the stock can correct could be 23.6%. If this stock continues to correct further, the trader can watch out for the 38.2% and 61.8% levels. In the above chart, the stock came to Rs.421 before it resumed the rally. Total Fibonacci Upmove was Rs.109. 489 - 109* 0.618 = 421. Hence, the stock has retraced upto 61.8%.  
+The Fibonacci retracements can also be applied to stocks that are falling, in order to identify levels upto which the stock can bounce back.  
+### Fibonacci Retracement construction
+Fibonacci retracements are movements in the chart that go against the trend. To use the Fibonacci retracements we should first identify the 100% Fibonacci move. The 100% move can be an upward rally or a downward rally. To mark the 100% move, we need to pick the most recent peak and trough on the chart. Once this is identified, we connect them using a Fibonacci retracement tool.  
+The Fibonacci Retracements can be useful when you wanted to buy a particular stock but you have not been able to do so because of a sharp run up in the stock. In such a situation the most prudent action to take would be to wait for a retracement in the stock.
+
+## The Dow Theory
+### The Dow Tenets
+1.	**Indices discounts everything**  
+The stock market indices discount everything which is known & unknown in the public domain. If a sudden and unexpected event occurs, the stock market indices quickly recalibrates itself to reflect the accurate value
+2.	**There are 3 broad market trends overall**  
+Primary Trend, Secondary Trend, and Minor Trends
+3.	**The Primary Trend**  
+This is the major trend of the market that lasts from a year to several years. It indicates the broader multiyear direction of the market. While the long term investor is interested in the primary trend, an active trader is interested in all trends. The primary trend could be a primary uptrend or a primary down trend
+4.	**The Secondary Trend**  
+These are corrections to the primary trend. Think of this as a minor counter reaction to the larger movement in the market. Example – corrections in the bull market, rallies & recoveries in the bear market. The counter trend can last anywhere between a few weeks to several months
+5.	**Minor Trends/Daily fluctuations**  
+These are daily fluctuations in the market, some traders prefer to call them market noise
+6.	**All Indices must confirm with each other**  
+We cannot confirm a trend based on just one index. For example the market is said to be bullish only if CNX Nifty, CNX Nifty Midcap, CNX Nifty Smallcap etc all move in the same upward direction. It would not be possible to classify markets as bullish, just by the action of CNX Nifty alone
+7.	**Volumes must confirm**  
+The volumes must confirm along with price. The trend should be supported by volume. In an uptrend the volume must increase as the price rises and should reduce as the price falls. In a downtrend, volume must increase when the price falls and decrease when the price rises. 
+8.	**Sideway markets can substitute secondary markets**  
+Markets may remain sideways (trading between a range) for an extended period. Example:- Reliance Industries between 2010 and 2013 was trading between 860 and 990. The sideways markets can be a substitute for a secondary trend
+9.	**The closing price is the most sacred**  
+Between the open, high, low and close prices, the close is the most important price level as it represents the final evaluation of the stock during the day
+### Phases of Market
+![Market Phases](https://zerodha.com/varsity/wp-content/uploads/2014/10/phases.jpg)
+Dow Theory suggests the markets are made up of three distinct phases, which are self repeating. These are called the Accumulation phase, the Mark up phase, and the Distribution phase.    
+**Accumulation Phase** - The Accumulation phase usually occurs right after a steep sell off in the market. Buyers would still be hesitant of buying fearing there could be another sell off. Hence the stock price languishes at low levels. This is when the ‘Smart Money’ enters the market.  
+Smart money is usually the institutional investors who invest from a long term perspective. They invariably seek value investments which is available after a steep sell off. Institutional investors start to acquire shares regularly, in large quantities over an extended period of time. This is what makes up an accumulation phase.  
+
+**Mark Up Phase** - After all the stocks are bought, short term traders sense the occurrence of a support. These factors tend to take the stock price higher. This is called the mark up phase. During the Mark up phase, the stock price rallies quickly and sharply. The most important feature of the mark up phase is the speed. Because the rally is quick, the public at large is left out of the rally.    
+
+**Distribution Phase** - Finally when the stock price reaches new highs (52 week high, all time high), the news reports turn optimistic, business environment suddenly appears vibrant, and everyone (public) wants to invest in the markets. This is when the distribution phase occurs.  
+The judicious investors who got in early (during the accumulation phase) will start offloading their shares slowly. The public will absorb all the volumes off loaded by the institutional investors (smart money) there by giving them the well needed price support. The distribution phase has similar price properties as that of the accumulation phase.In the distribution phase, whenever the prices attempt to go higher, the smart money off loads their holdings. Over a period of time this action repeats several times and thus the resistance level is created.
+
+**Mark Down Phase** - Finally when the institutional investors (smart money) completely sell off their holdings, there would no further support for prices, and hence what follows after the distribution phase is a complete sell off in the markets, also known as the mark down of prices.  
+
+Completing the circle, what follows the selloff phase is a fresh round of accumulation phase, and the whole cycle repeats again. It is believed that that entire cycle from accumulation phase to the selloff spans over a few years.  
+
+### The Dow Patterns
+#### The Double bottom & Double top formation
+A double bottom formation is considered bullish, and hence one should look at buying opportunities. The two bottom formation must be well spaced in time (2 weeks).
+![Double Bottom Formation](http://zerodha.com/varsity/wp-content/uploads/2014/10/M2-Ch17-Chart1.jpg)
+#### The Triple bottom and Triple top
+As a rule of thumb the more number of times the price tests, and reacts to a certain price level, the more sacred the price level is considered. Therefore by virtue of this, the triple formation is considered more powerful than the double formation.
+#### Trading Range
+The concept of range is a natural extension to the double and triple formation. In a range, the stock attempts to hit the same upper and lower price level multiple times for an extended period of time. This is also referred to as the sideways market. This can be confirmed using the Support and Resistance levels.
+![Sideways Market](https://zerodha.com/varsity/wp-content/uploads/2014/10/M2-Ch18-Chart1.jpg)
+
+**Range Breakout**  
+Sideways Market occurs due to two reasons -
+- There are no Fundamental triggers like Budget Announcement, new launches, joint ventures etc to move the market -  The range under these circumstances could be quite long lasting until a meaningful trigger occurs.
+- Anticipation of big announcement - Till the announcement is made both buyers and sellers would be hesitant to take action and hence the stock gets into the range.
+
+Range breakout refers to a start of a new trend. A false breakout may also occur. A trader can avoid these by analyzing the volumes. A true breakout usually has very high momentum.
+One can trade on such breakouts. For example, if a stock starts moving up after a breakout, one can go long placing stop loss at resitance level. The stock is expected to move to a price which is higher than the resistance level by a value equivalent to the range.  
+**Flag Formation**
+The flag formation usually takes place when the stock posts a sustained rally with almost a vertical or a steep increase in stock prices. Flag patterns are marked by a big move which is followed by a short correction. The price decline can last anywhere between 5 to 15 trading sessions.
+With these two events (i.e price rally, and price decline) occurring consecutively a flag formation is formed. When a flag forms, the stock invariably spurts back all of a sudden and continues to rally upwards. A trader can initiate a trade afterflag formation.  
+A flag forms due to many market participants booking profits due to the rally. The stock rallies up after a flag because 'smart money' is still invested and market sentiment is positive.
+### Reward to Risk Ratio
+ The RRR is higher than 1.3 for good trades.
+ 
+## Final Checklist
+1. The stock should form a recognisable candlestick pattern
+2. S&R should confirm to the trade. The stoploss price should be around S&R
+- For a long trade, the low of the pattern should be around the support
+- For a short trade, the high of the pattern should be around the resistance
+3. Volumes should confirm
+- Ensure above average volumes on both buy and sell day
+- Low volumes are not encouraging, and hence do feel free to hesitate while taking trade where the volumes are low
+4. Look at the trade from the Dow Theory perspective.
+- Primary, secondary trends
+- Double, triple, range formations
+- Recognisable Dow formation
+5. Indicators should confirm
+- Scale the trade size higher if indicators confirm to your plan of action
+- If the indicators do not confirm go ahead with the original plan
+6. RRR should be satisfactory
+- Think about your risk appetite and identify your RRR threshold
+- A beginner can have a high RRR. An active trader can have a RRR of 1.5.
 
 # Currency Basics
 
